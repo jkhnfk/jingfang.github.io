@@ -1,28 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://zhongjingnmz.github.io</id>
+    <id>https://caomiao.github.io</id>
     <title>曹淼</title>
-    <updated>2020-11-19T05:09:56.076Z</updated>
+    <updated>2020-11-19T06:44:08.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://zhongjingnmz.github.io"/>
-    <link rel="self" href="https://zhongjingnmz.github.io/atom.xml"/>
+    <link rel="alternate" href="https://caomiao.github.io"/>
+    <link rel="self" href="https://caomiao.github.io/atom.xml"/>
     <subtitle>「睡觉？睡什么觉？只有对社会没有用的人才需要睡觉。」</subtitle>
-    <logo>https://zhongjingnmz.github.io/images/avatar.png</logo>
-    <icon>https://zhongjingnmz.github.io/favicon.ico</icon>
+    <logo>https://caomiao.github.io/images/avatar.png</logo>
+    <icon>https://caomiao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 曹淼</rights>
     <entry>
         <title type="html"><![CDATA[《内经选读》背诵内容]]></title>
-        <id>https://zhongjingnmz.github.io/post/lesslessnei-jing-xuan-du-greatergreater-bei-song-nei-rong/</id>
-        <link href="https://zhongjingnmz.github.io/post/lesslessnei-jing-xuan-du-greatergreater-bei-song-nei-rong/">
+        <id>https://caomiao.github.io/post/neijingxuandubeisong/</id>
+        <link href="https://caomiao.github.io/post/neijingxuandubeisong/">
         </link>
         <updated>2020-11-19T04:41:00.000Z</updated>
-        <content type="html"><![CDATA[<p>这是关于内容经选读的背诵内容。</p>
+        <content type="html"><![CDATA[<p>这是关于内容经选读的背诵内容。<br>
+<img src="https://caomiao.github.io/post-images/1605768202132.png" alt="" loading="lazy"><br>
+通过这个Anki软件，可以比较方便和自由地背诵《内经选读》相关课程内容。</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://zhongjingnmz.github.io/post/hello-gridea/</id>
-        <link href="https://zhongjingnmz.github.io/post/hello-gridea/">
+        <id>https://caomiao.github.io/post/hello-gridea/</id>
+        <link href="https://caomiao.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
